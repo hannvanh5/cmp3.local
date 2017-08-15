@@ -1,0 +1,59 @@
+/**
+ * Place your custom styles here.
+ */
+
+
+body {
+    background-color:
+    #888;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: lightblue;
+
+}
+
+a:hover {
+    text-decoration: none;
+}
+span {
+    color: lightgrey;
+}
+
+aside{
+    background-color: #888;
+}
+
+.well {
+    background-color: #888;
+    border: none;
+}
+
+h2.field-content.videos{
+    text-align: center;
+    
+}
+
+h1.page-header {
+    color: indianred;
+    text-align: center;
+}
+
+div.region.region-footer {
+    text-align: center;
+    color: lightgrey;
+}
+
+div.player-inner {
+    margin-left: 150px;
+
+}
+
+
+.div#player{
+    margin-left:150px;
+}
